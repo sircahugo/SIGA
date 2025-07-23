@@ -1,2 +1,2 @@
-# SIGA-App
+# SIGA
 Plataforma inteligente de agricultura 🌱
